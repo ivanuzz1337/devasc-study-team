@@ -1,19 +1,24 @@
 # devasc-study-team
-Working together to pass the DEVASC exam \n
+Working together to pass the DEVASC exam 
 
 
-Hello! I'm Abyzov Ivan. \n
+Hello! I'm Abyzov Ivan. 
 
 It's my report of tasks for course "Seminar on Software Systems, Technologies and Security".
 
-1. First of all I've started to do Task 1 -- GitHub Skills Test. \n
-  ● Task name => GitHub Skills Test. \n
+1. First of all I've started to do Task 1 -- GitHub Skills Test. 
+  ● Task name => GitHub Skills Test. 
   ● Task preparation => for make this lab I'used:
       ● Oracle Virtual Box;
+      
       ● Image of VM "DEVASC_VM" - VM for experiments;
+      
       ● file 3.3.11 Lab - Software Version Control with Git.
-  ● Task implementation => In work I have used file 3.3.11 Lab - Software Version Control with Git. This file contain very useful commands for Git that I used in all tasks. Step by step I've complited this one and acquire skills in git.
+      
+      ● Task implementation => In work I have used file 3.3.11 Lab - Software Version Control with Git. This file contain very useful commands for Git that I used in all tasks. Step by step I've complited this one and acquire skills in git.
+
 ● Task troubleshooting => I must had has to be careful, when i pushed changes on GitHub, because it's need to use tolen for push.  
+
 ● Task verification => You can see screenshots in folder intro 
 
 2. In the second tack I started to understand ansible 
