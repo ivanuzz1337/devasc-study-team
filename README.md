@@ -1,13 +1,13 @@
 # devasc-study-team
-Working together to pass the DEVASC exam
+Working together to pass the DEVASC exam \n
 
 
-Hello! I'm Abyzov Ivan. 
+Hello! I'm Abyzov Ivan. \n
 
 It's my report of tasks for course "Seminar on Software Systems, Technologies and Security".
 
-1. First of all I've started to do Task 1 -- GitHub Skills Test. 
-  ● Task name => GitHub Skills Test. 
+1. First of all I've started to do Task 1 -- GitHub Skills Test. \n
+  ● Task name => GitHub Skills Test. \n
   ● Task preparation => for make this lab I'used:
       ● Oracle Virtual Box;
       ● Image of VM "DEVASC_VM" - VM for experiments;
