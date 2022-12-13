@@ -7,8 +7,11 @@ Hello! I'm Abyzov Ivan.
 It's my report of tasks for course "Seminar on Software Systems, Technologies and Security".
 
 1. First of all I've started to do Task 1 -- GitHub Skills Test. 
+  
   ● Task name => GitHub Skills Test. 
+  
   ● Task preparation => for make this lab I'used:
+  
       ● Oracle Virtual Box;
       
       ● Image of VM "DEVASC_VM" - VM for experiments;
